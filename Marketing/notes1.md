@@ -1,0 +1,3 @@
+Cost per thousand (CPT) **represents the cost that an advertiser pays in order to obtain one thousand views or impressions of an advertisement**. Cost per mille (CPM) and CPT are interchangeable because mille is Latin for “thousand.”
+
+Cost per install (CPI) is a cost model for user acquisition (UA) campaigns, and is defined as **the fixed rate an advertiser pays to an ad network once an app is installed**. CPI is a metric exclusively for mobile apps and used by marketers to measure their advertising budgets.
