@@ -7,7 +7,26 @@
     "iconColor": null,
     "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": ".*",
+        "icon": "FasFolder",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "([a-zA-Z0-9\\s_\\\\.\\-\\(\\):])+(.md)$",
+        "icon": "IbDocumentCode",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "assets",
+        "icon": "FasImages",
+        "for": "everything",
+        "order": 2
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
